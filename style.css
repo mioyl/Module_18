@@ -237,8 +237,7 @@ h1 {
     body {
         margin: 59px 54px 75px 54px
        }
-    
-    .navigation {
+        .navigation {
         display: flex;
         flex-direction: row;
         justify-content:center;
